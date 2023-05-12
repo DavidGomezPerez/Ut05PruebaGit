@@ -8,7 +8,7 @@ package com.mycompany.ut05pruebagit;
  *
  * @author David Gómez
  */
-public class Bolso {
+public class Zapato {
     
-    private String marca;
+    private int talla;
 }
